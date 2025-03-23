@@ -138,6 +138,9 @@ static const uint8_t SCK = PIN_SPI_SCK;
 // RAKRGB
 #define HAS_NCP5623
 
+// Texas Instrument LP5562
+#define HAS_LP5562
+
 /*
  * Wire Interfaces
  */
